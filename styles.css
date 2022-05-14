@@ -12,6 +12,7 @@
     text-decoration: underline;
 }
 
+/* list stylizing */
 .recipe-list
 {
     
@@ -43,4 +44,16 @@
 {
     color: firebrick;
     text-decoration: none;
+}
+
+.recipe-image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: auto;
+    max-width: 800px;
+    height: auto;
+    width: 100%;
+    border-radius: 5%;
 }
